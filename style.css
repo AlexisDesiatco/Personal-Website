@@ -375,6 +375,9 @@ li {
     float: right;
     display: block;
   }
+  .topnav a.active {
+    color: #fd4766;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -387,6 +390,5 @@ li {
   .topnav.responsive a {
     float: none;
     display: block;
-    text-align: left;
   }
 }

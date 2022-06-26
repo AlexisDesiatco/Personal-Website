@@ -8,7 +8,6 @@ function myFunction() {
 }
 
 
-
 const slider = document.querySelector('.gallery');
 let isDown = false;
 let startX;
